@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2lScllDt/dB6dafxKx3mVXn1EMlhoLZJZXoxm7hUMCZemTyMN0k3RdGlFXh0vKPOnmYxxZRit7kt5U841C2Mzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nyanp\\Desktop\\Конспекты\\Прикладное программирование\\WebApplicationTest\\WebApplicationTest\\WebApplicationTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nyanp\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
